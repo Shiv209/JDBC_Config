@@ -1,2 +1,2 @@
 # JDBC_Config
-JDBC configuration validation programmes
+JDBC configuration-validation programes
